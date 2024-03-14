@@ -6,7 +6,7 @@ Heavily inspired by code written and shared on the [pymc-resources github](https
 
 Based on version 1 of the textbook found [here](https://civil.colorado.edu/~balajir/CVEN6833/bayes-resources/RM-StatRethink-Bayes.pdf)
 
-Additional information on the book can be found [here](https://xcelab.net/rmpubs/rethinking/rethinking_solutions_2.pdf)
+Additional information on the book can be found [here](https://xcelab.net/rm/statistical-rethinking/)
 
 ## Dependencies 
 - arviz
